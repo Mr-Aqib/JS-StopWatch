@@ -1,0 +1,43 @@
+body
+{
+    background-image: url(https://getwallpapers.com/wallpaper/full/f/2/1/704496-cool-colors-wallpaper-2560x1600-ipad-pro.jpg);
+  
+    background-size: cover;
+}
+.style-script-regular {
+    font-family: "Style Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.watchh1
+{
+    font-family: 'Style Script';
+    font-size: 100px;
+    letter-spacing:4px;
+    font-weight: bold;
+    background: -webkit-linear-gradient(#470909, #306922,#991910);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.Hours,.Minutes,.seconds,.dot
+{
+    font-family: 'Style Script';
+    color: brown;
+    font-size: 80px;
+    background: -webkit-linear-gradient(#9d739b, #23b6b3,#641610);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+ 
+
+}
+hr
+{
+    
+    background-color: red;
+    width: 50%;
+    height: 0.2%;
+   
+    background-color: black;
+   
+}
