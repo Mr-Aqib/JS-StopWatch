@@ -19,17 +19,18 @@ body
     background: -webkit-linear-gradient(#470909, #306922,#991910);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
+    
 }
 .Hours,.Minutes,.seconds,.dot
 {
     font-family: 'Style Script';
     color: brown;
     font-size: 80px;
-    background: -webkit-linear-gradient(#9d739b, #23b6b3,#641610);
+    background: -webkit-linear-gradient(#9d739b, #0ae5e1,#641610);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
- 
-
+  text-shadow: 20px 5px 15px;
+  
 }
 hr
 {
